@@ -3438,7 +3438,7 @@ packages:
         optional: true
 
   vuepress-plugin-i18n@https://codeload.github.com/XTLS/vuepress-plugin-i18n/tar.gz/5ae5b2d:
-    resolution: {tarball: https://codeload.github.com/XTLS/vuepress-plugin-i18n/tar.gz/5ae5b2d}
+    resolution: {gitHosted: true, tarball: https://codeload.github.com/XTLS/vuepress-plugin-i18n/tar.gz/5ae5b2d}
     version: 0.8.4
     peerDependencies:
       vuepress: 2.0.0-rc.2
